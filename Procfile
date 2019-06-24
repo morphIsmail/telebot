@@ -1,1 +1,1 @@
-bot: python pogoda.py
+worker: python pogoda.py
